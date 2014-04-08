@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @author http://www.exorithm.com/algorithm/view/unique_image
+ */
 function unique_image($string)
 {
   $size=200;
